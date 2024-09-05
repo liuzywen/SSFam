@@ -8,7 +8,7 @@ DOI:
 
 
 
-![Main](Main.pdf)
+![Main](Main.png)
 ## All Codes
 链接：https://pan.baidu.com/s/15BqvuAe6E3zcouuwAyet-w 
 提取码：a6iw 
