@@ -46,6 +46,12 @@ DOI:
 If you find the information useful, please consider citing:
 
 ```
-
+@article{liu2025ssfam,
+  title={SSFam: Scribble Supervised Salient Object Detection Family},
+  author={Liu, Zhengyi and Deng, Sheng and Wang, Xinrui and Wang, Linbo and Fang, Xianyong and Tang, Bin},
+  journal={IEEE Transactions on Multimedia},
+  year={2025},
+  publisher={IEEE}
+}
 ```
 If you have any question, please email  liuzywen@ahu.edu.cn
