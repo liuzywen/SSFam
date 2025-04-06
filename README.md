@@ -1,6 +1,6 @@
 # SSFam: Scribble Supervised Salient Object Detection Family
 
-The paper has been accepted by IEEE Transactions on Multimedia
+The paper has been publishd by IEEE Transactions on Multimedia
 
 [paper](https://arxiv.org/pdf/2409.04817)
 
