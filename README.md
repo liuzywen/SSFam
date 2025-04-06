@@ -51,6 +51,7 @@ If you find the information useful, please consider citing:
   author={Liu, Zhengyi and Deng, Sheng and Wang, Xinrui and Wang, Linbo and Fang, Xianyong and Tang, Bin},
   journal={IEEE Transactions on Multimedia},
   year={2025},
+  pages={1988--2000},
   publisher={IEEE}
 }
 ```
